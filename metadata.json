@@ -1,0 +1,6 @@
+{
+  "name": "TrueRoll - National APAAR ID Student Management & Verification",
+  "description": "National APAAR ID-Based Student Data Management & Verification Platform for AICTE-Approved Institutions (SIH26263).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
